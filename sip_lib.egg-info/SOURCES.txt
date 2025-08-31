@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+sip_lib.egg-info/PKG-INFO
+sip_lib.egg-info/SOURCES.txt
+sip_lib.egg-info/dependency_links.txt
+sip_lib.egg-info/top_level.txt
